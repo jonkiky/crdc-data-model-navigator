@@ -1,5 +1,5 @@
 {
-     "model-navigator-logo":"http://localhost:3000/crdc-data-model-navigator/static/media/case.214b1fb544e6021c06e264818812fdea.svg"
+     "model-navigator-logo":"http://localhost:3000/crdc-data-model-navigator/static/media/case.214b1fb544e6021c06e264818812fdea.svg",
     "model-files": [
     "ctdc_model_file.yaml",
     "ctdc_model_properties_file.yaml"
